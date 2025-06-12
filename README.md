@@ -1,4 +1,6 @@
-# 🌐 SakshamNaari - Women's Empowerment Web Platform
+# 🌐 SakshamNaari - Women's Empowerment Web Platform     
+
+HOSTED LINK:-https://sakshamnaari.netlify.app/
 
 **SakshamNaari** is a modern, responsive web application designed to promote **digital and financial literacy** among women. Built using **Vite + TypeScript + Tailwind CSS**, it combines performance, accessibility, and style to deliver real impact.
 
